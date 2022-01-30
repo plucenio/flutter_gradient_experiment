@@ -15,5 +15,5 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-[ScreenShot1.png]
-[ScreenShot2.png]
+[https://raw.githubusercontent.com/plucenio/flutter_gradient_experiment/master/ScreenShot1.png]
+[https://raw.githubusercontent.com/plucenio/flutter_gradient_experiment/master/ScreenShot2.png]
